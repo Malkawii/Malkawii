@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Malkawii
+- 👀 I’m interested in: game develpoment
+- 🌱 I’m currently learning: C# 
+- 📫 How to reach me: fastest way to reach me is: discord (Malkawi#3717) or you can just send me an email to (kareemmalkawi4@gmail.com_
+
+<!---
+Malkawii/Malkawii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
