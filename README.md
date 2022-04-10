@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Malkawii
-- 👀 I’m interested in: game develpoment, Cheat Coding
+- 👀 I’m interested in: game develpoment, website dev
 - 🌱 I’m currently learning: CS50 course
 - 📫 How to reach me: fastest way to reach me is: discord (Malkawi#3717) or you can just send an email to (kareemmalkawi4@gmail.com)
 
